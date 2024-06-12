@@ -34,9 +34,9 @@ button {
     align-items: center;
     margin: 20px;
     background-color: grey;
-    padding: 20px;
-    border-radius: 10%;
-    border-style: outset;
+    padding: 30px;
+    border-radius: 5%;
+    border-style: none;
 
 }
 

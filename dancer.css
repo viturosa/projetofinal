@@ -1,0 +1,48 @@
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+ul {
+
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    margin-left: 0px;
+    background-color: grey;
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+
+.page {
+    color:whitesmoke;
+}
+main {
+    margin: 50px;
+}
+footer {
+    height: 20%;
+    background: grey;
+
+}
+
+footer h4 {
+    margin: 20px;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.logos {
+    margin: 20px;
+    padding: 5px;
+    height: 25px;
+    width: 25px;
+}
